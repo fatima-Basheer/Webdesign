@@ -7,9 +7,9 @@ function Temdesign() {
   const positionRef = useRef(0);
 
   const images = [
-    "/src/assets/image1.jpg",
-    "/src/assets/image2.jpg",
-    "/src/assets/imagee3.jpg",
+    "/images/image1.jpg",
+    "/images/image2.jpg",
+    "/images/imagee3.jpg",
   ];
 
   const loopImages = [...images, ...images, ...images, ...images];

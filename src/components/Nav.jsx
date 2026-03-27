@@ -1,5 +1,5 @@
-import React from "react";
-import { useState } from "react";
+
+import logo from "../assets/download.png";
 import { FaAngleDown } from "react-icons/fa6";
 import { LuShoppingCart } from "react-icons/lu";
 function Nav() {
@@ -9,11 +9,7 @@ function Nav() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-8">
             <div class="flex justify-center">
-              <img
-                src="/src/assets/download.png"
-                alt="logo"
-                class="h-11 w-auto"
-              />
+      <img src={logo} className="h-11 w-auto" />
             </div>
 
             <ul className="hidden md:flex space-x-6 text-white text-sm font-bold">

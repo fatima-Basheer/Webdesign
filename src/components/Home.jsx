@@ -7,7 +7,7 @@ function Home() {
         <div className="relative md:col-span-2 overflow-hidden rounded-sm">
           <img
             className="w-full h-[250px] sm:h-[300px] md:h-[350px] object-cover"
-            src="src/assets/herosecimg.jpg"
+            src="herosecimg.jpg"
             alt=""
           />
 
@@ -40,7 +40,7 @@ function Home() {
           </div>
         </div>
 
-        <div className="relative md:col-span-1 overflow-hidden rounded-sm bg-[#b3dddd] flex">
+        <div className="relative md:col-span-1 overflow-hidden rounded-sm bg-[#d2f3f3] flex">
           <div className="flex flex-col justify-center items-start w-full px-4 sm:px-6 md:px-8 py-6 gap-3">
             <h6 className="text-black text-xs sm:text-sm font-semibold">
               Website & Commerce

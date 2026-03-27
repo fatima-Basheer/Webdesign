@@ -9,7 +9,7 @@ function Search() {
           <input
             type="text"
             placeholder="Type the domain you want"
-            className="flex-1 px-4 py-2 focus:outline-none"
+            className="flex-1 px-4 py-2 focus:outline-none bg-gray-100"
           />
           <button className="bg-[#00838C] text-white px-4 py-2 text-xs font-bold">
             Search Domain

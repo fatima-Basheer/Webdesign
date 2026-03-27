@@ -42,6 +42,7 @@ function Steps() {
 
         <div className="flex flex-col items-center md:items-start space-y-4">
           <img
+          
             src="/images/step2.jpg"
             alt="Step 2"
             className="w-full max-w-[400px] h-auto object-cover rounded-md"
