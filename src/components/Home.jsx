@@ -6,7 +6,7 @@ function Home() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <div className="relative md:col-span-2 overflow-hidden rounded-sm">
           <img
-            className="w-full h-[250px] sm:h-[300px] md:h-[350px] object-cover"
+            className="w-full h-[250px] sm:h-[300px] md:h-[350pxclear] object-cover"
             src="herosecimg.jpg"
             alt=""
           />
